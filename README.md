@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="left">📌 Linguagens e Tecnologias</h2>
+<h2 align="left">🤖 Linguagens e Tecnologias</h2>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<h2 align="left">📌 Stats</h2>
+<h2 align="left">📊 Stats</h2>
 
 ###
 
