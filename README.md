@@ -16,45 +16,65 @@
   </a>
 </div>
 
-###
-
 <h2 align="left">🤖 Linguagens e Tecnologias</h2>
 
-###
+<table style="border-collapse: collapse; border-color: transparent;">
+<tr>
+<td align="center" style="border-color: transparent;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/><br>
+  <sub>HTML</sub>
+</td>
 
-<div align="left">
+<td align="center" style="border-color: transparent;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/><br>
+  <sub>CSS</sub>
+</td>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <span>HTML</span>
+<td align="center" style="border-color: transparent;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/><br>
+  <sub>JavaScript</sub>
+</td>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <span>CSS</span>
+<td align="center" style="border-color: transparent;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/><br>
+  <sub>TypeScript</sub>
+</td>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <span>JavaScript</span>
+<td align="center" style="border-color: transparent;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/><br>
+  <sub>React</sub>
+</td>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <span>TypeScript</span>
+<td align="center" style="border-color: transparent;">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40"/><br>
+  <sub>Node.js</sub>
+</td>
+</tr>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <span>React</span>
+<tr>
+<td align="center" style="border-color: transparent;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40"/><br>
+  <sub>Laravel</sub>
+</td>
 
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
-  <span>Node.js</span>
+<td align="center" style="border-color: transparent;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/><br>
+  <sub>MySQL</sub>
+</td>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" />
-  <span>Laravel</span>
+<td align="center" style="border-color: transparent;">
+  <img src="https://skillicons.dev/icons?i=git" height="40"/><br>
+  <sub>Git</sub>
+</td>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <span>MySQL</span>
+<td align="center" style="border-color: transparent;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40"/><br>
+  <sub>Tailwind</sub>
+</td>
 
-  <img src="https://skillicons.dev/icons?i=git" height="40" />
-  <span>Git</span>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" />
-  <span>Tailwind</span>
-
-  <img src="https://skillicons.dev/icons?i=styledcomponents" height="40" />
-  <span>Styled Components</span>
-
-</div>
+<td align="center" style="border-color: transparent;">
+  <img src="https://skillicons.dev/icons?i=styledcomponents" height="40"/><br>
+  <sub>Styled<br>Components</sub>
+</td>
+</tr>
+</table>
